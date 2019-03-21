@@ -9,7 +9,10 @@ c=a-b;
 console.log(c)
 //multiplicacion
 c=a*b;
+console.log(c)
 //exponenciacion
 c=a**b
+console.log(c)
 //divicion
 c=a/b
+console.log(c)
