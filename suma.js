@@ -1,6 +1,7 @@
 
 var a,b,c;
-var foo = 'exponente';
+console.log("Escribe la operacion");
+var foo ='exponente'
 switch (foo) {
 
   case 'suma': // foo es 0, por lo tanto se cumple la condición y se ejecutara el siguiente bloque
@@ -29,8 +30,8 @@ switch (foo) {
   break;
 
   case 'exponente':
-  a=2000000
-  b=10
+  a=10
+  b=18
   c=a**b;
   console.log(c)
   console.log('este es el exponente')
